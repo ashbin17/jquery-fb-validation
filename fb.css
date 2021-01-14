@@ -1,0 +1,118 @@
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+.header{
+    background-color: #3b5998;
+    width: 100%;
+    height: 80px;
+}
+.logo{
+    width: 50%;
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 15px;
+    float: left;
+}
+.logo a{
+    text-decoration: none;
+    color: white;
+    margin-left: 150px;
+}
+.login{
+    width: 50%;
+    padding-top: 7px ;
+    float: left;
+}
+.login label{
+    color: white;
+}
+.login table{
+    padding-left: 110px;
+}
+.login a{
+    text-decoration: none;
+    color: #9cb4d8;
+}
+.sub-btn{
+    color: white;
+    background-color: #4267b2;
+    height: 22px;
+    border-color: #29487d;
+    cursor: pointer;
+}
+.sub-btn:hover{
+    background-color: blue;
+}
+.main{
+    background: linear-gradient(white, #D3D8E8);
+    width: 100%;
+    height: 600px;
+    padding: 10px;
+    padding-left: 120px;
+}
+.image{
+    padding-top: 40px;
+    margin: auto;
+    width: 500px;
+    height: 300px;
+}
+.left{
+    width: 50%;
+    float: left;
+}
+.right{
+    width: 50%;
+    float: left;
+}
+.txt{
+    font-size: 35px;
+    margin-bottom: 0;
+}
+.txt1{
+    font-size: 20px;
+    margin-top: 5px;
+}
+.input{
+    height: 25px;
+    margin: 5px;
+    border-radius: 5px;
+    border-color: black;
+}
+.input1{
+    width: 330px;
+}
+.para1{
+    color: gray;
+}
+.select-grp{
+    padding: 10px;
+}
+.right select{
+    height: 30px;
+    border-radius: 5px;
+}
+.right a{
+    color: lightseagreen;
+    text-decoration: none;
+}
+.btn{
+    width: 150px;
+    height: 30px;
+    background-color: #34994a;
+    border-radius: 5px;
+    border: 1px;
+    color: white;
+    cursor: pointer;
+}
+.footer{
+    width: 100%;
+    height: 150px;
+    color: gray;
+    padding-left: 300px;
+}
+.footer a{
+    text-decoration: none;
+    color: gray;
+}
